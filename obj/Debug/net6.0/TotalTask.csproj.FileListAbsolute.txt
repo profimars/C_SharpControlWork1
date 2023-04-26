@@ -1,0 +1,15 @@
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\bin\Debug\net6.0\TotalTask.exe
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\bin\Debug\net6.0\TotalTask.deps.json
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\bin\Debug\net6.0\TotalTask.runtimeconfig.json
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\bin\Debug\net6.0\TotalTask.dll
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\bin\Debug\net6.0\TotalTask.pdb
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.csproj.AssemblyReference.cache
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.AssemblyInfoInputs.cache
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.AssemblyInfo.cs
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.dll
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\refint\TotalTask.dll
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.pdb
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\TotalTask.genruntimeconfig.cache
+C:\Гикбрейнс\Итоговая контрольная работа по основному блоку\ControlWork1\TotalTask\obj\Debug\net6.0\ref\TotalTask.dll
